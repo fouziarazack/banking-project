@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class viewcustomers {
     
-    // JDBC connection details
+   
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/your_database"; 
     private static final String JDBC_USERNAME = "your_username"; 
     private static final String JDBC_PASSWORD = "your_password"; 
