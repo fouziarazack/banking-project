@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class deposittransaction {
 
     // Database connection details
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/bankdb_schema";
-    private static final String JDBC_USERNAME = "root";
-    private static final String JDBC_PASSWORD = "Fouzu@2005";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/your_database";
+    private static final String JDBC_USERNAME = "your_username";
+    private static final String JDBC_PASSWORD = "your_password";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
